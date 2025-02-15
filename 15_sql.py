@@ -1,6 +1,9 @@
 """
 Obtain data from https://sectors.app
 Accompanying course material: https://sectors.app/bulletin/ai-search
+
+new line added
+
 """
 
 import pandas as pd
